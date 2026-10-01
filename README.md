@@ -1,1 +1,1 @@
-Merhaba,ben Sündüs. Yönetim Bilişim Sistemleri Öğrencisiyim. Bu repository Java programlama dersi için oluşturulmuştur. Bu çalışmada 1 ile 20 arasındaki çift sayıların toplamını bulan bir Java programı geliştirdim.
+Merhaba,ben Sündüs. Yönetim Bilişim Sistemleri Öğrencisiyim. Bu repository Java programlama dersi için oluşturulmuştur.
